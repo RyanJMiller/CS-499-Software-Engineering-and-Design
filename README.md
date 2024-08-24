@@ -1,1 +1,2 @@
+#README
 This artifact is a client management system that I originally developed from reverse engineered legacy code in C++, and later enhanced by translating it into Java and converting it from an application interfaced within a terminal environment to a GUI format using Java Swing. This system allows "SNHU Investments," a fictional investment company, to view and edit service options offered to specific clients. 
